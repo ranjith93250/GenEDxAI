@@ -402,7 +402,7 @@ Have questions? Need support? Want to collaborate?
 
 If you find GenEDxAI helpful, please consider giving us a star!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mohan13krishna/GenEDxAI&type=Date)](https://star-history.com/#ranjith93250/GenEDxAI&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ranjith93250/GenEDxAI&type=Date)](https://star-history.com/#ranjith93250/GenEDxAI&Date)
 
 ---
 
